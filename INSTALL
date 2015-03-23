@@ -1,0 +1,9 @@
+Building CoinAwesome
+
+See doc/readme-qt.rst for instructions on building CoinAwesome QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CoinAwesome.
+
+See doc/build-*.txt for instructions on building coinawesomed,
+the intended-for-services, no-graphical-interface, reference
+implementation of CoinAwesome.
